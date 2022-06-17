@@ -1,5 +1,5 @@
 import * as UI from "./interfaz.js";
-import { API } from './api,js';
+import { API } from './api.js';
 
 UI.formularioBuscar.addEventListener('sumbmit', buscarCancion);
 
